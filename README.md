@@ -1,7 +1,7 @@
 # wrangler-rpc-test
 
 Companion to https://github.com/wking-io/alchemy-rpc-tdz and
-https://github.com/alchemy-run/alchemy/issues/1406.
+https://github.com/alchemy-run/alchemy-effect/issues/308.
 
 Same Effect v4 RPC server (`RpcServer.toHttpEffect` over a `RpcGroup.make`),
 this time bundled by **wrangler / esbuild** instead of **alchemy / rolldown**.
